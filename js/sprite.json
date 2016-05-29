@@ -1,0 +1,9 @@
+{
+    "framerate": 20,
+    "images": ["img/heroSprite.png"],
+    "frames": {"width":50, "height":66, "regX":0, "regY":0},
+    "animations": {
+        "run": [0,2],
+        "jump": [3]
+    }
+}
